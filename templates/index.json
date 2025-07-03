@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero_jVaWmY": {
@@ -7,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2><strong>Your Life, Your rules.</strong></h2>",
+            "text": "<h2><strong>Your Game, Your rules.</strong></h2>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
@@ -30,7 +39,9 @@
           "blocks": {}
         }
       },
-      "block_order": ["text_WPxF9P"],
+      "block_order": [
+        "text_WPxF9P"
+      ],
       "custom_css": [],
       "name": "t:names.hero",
       "settings": {
@@ -456,7 +467,10 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_iqUBDm", "text_pycYGE"]
+              "block_order": [
+                "text_iqUBDm",
+                "text_pycYGE"
+              ]
             },
             "button_Yjnc8c": {
               "type": "button",
@@ -473,7 +487,11 @@
               "blocks": {}
             }
           },
-          "block_order": ["text_gFW4RC", "group_yjELGd", "button_Yjnc8c"]
+          "block_order": [
+            "text_gFW4RC",
+            "group_yjELGd",
+            "button_Yjnc8c"
+          ]
         }
       },
       "name": "t:names.editorial",
@@ -557,7 +575,9 @@
               "blocks": {}
             }
           },
-          "block_order": ["text_7LYnmE"]
+          "block_order": [
+            "text_7LYnmE"
+          ]
         },
         "static-collection-card": {
           "type": "_collection-card",
@@ -619,10 +639,14 @@
               "blocks": {}
             }
           },
-          "block_order": ["collection_title_kAkPGU"]
+          "block_order": [
+            "collection_title_kAkPGU"
+          ]
         }
       },
-      "block_order": ["group_j3DpkU"],
+      "block_order": [
+        "group_j3DpkU"
+      ],
       "name": "t:names.collections_grid",
       "settings": {
         "collection_list": [
@@ -732,7 +756,9 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_4TPnUf"]
+              "block_order": [
+                "text_4TPnUf"
+              ]
             },
             "accordion_row_LGDcfj": {
               "type": "_accordion-row",
@@ -769,7 +795,9 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_mTP9yq"]
+              "block_order": [
+                "text_mTP9yq"
+              ]
             },
             "accordion_row_H4mqVn": {
               "type": "_accordion-row",
@@ -808,7 +836,9 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_aRCqtq"]
+              "block_order": [
+                "text_aRCqtq"
+              ]
             },
             "accordion_row_diiUCt": {
               "type": "_accordion-row",
@@ -847,7 +877,9 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_4qhbzp"]
+              "block_order": [
+                "text_4qhbzp"
+              ]
             },
             "accordion_row_HbCzXE": {
               "type": "_accordion-row",
@@ -886,7 +918,9 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_WkBjYd"]
+              "block_order": [
+                "text_WkBjYd"
+              ]
             }
           },
           "block_order": [
@@ -898,7 +932,10 @@
           ]
         }
       },
-      "block_order": ["text_ea4wUz", "accordion_kbHYkb"],
+      "block_order": [
+        "text_ea4wUz",
+        "accordion_kbHYkb"
+      ],
       "name": "t:names.faq_section",
       "settings": {
         "content_direction": "column",
@@ -1068,10 +1105,16 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_AwRqXV", "text_HMPGgy"]
+              "block_order": [
+                "text_AwRqXV",
+                "text_HMPGgy"
+              ]
             }
           },
-          "block_order": ["icon_6FqPmP", "group_68T4DE"]
+          "block_order": [
+            "icon_6FqPmP",
+            "group_68T4DE"
+          ]
         },
         "group_9YAP8X": {
           "type": "group",
@@ -1210,10 +1253,16 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_THFNCr", "text_zY7TN9"]
+              "block_order": [
+                "text_THFNCr",
+                "text_zY7TN9"
+              ]
             }
           },
-          "block_order": ["icon_nnzkXd", "group_7Qarew"]
+          "block_order": [
+            "icon_nnzkXd",
+            "group_7Qarew"
+          ]
         },
         "group_aXWGxG": {
           "type": "group",
@@ -1352,13 +1401,23 @@
                   "blocks": {}
                 }
               },
-              "block_order": ["text_YEffF9", "text_nLfcK6"]
+              "block_order": [
+                "text_YEffF9",
+                "text_nLfcK6"
+              ]
             }
           },
-          "block_order": ["icon_phEzRE", "group_RHHCqW"]
+          "block_order": [
+            "icon_phEzRE",
+            "group_RHHCqW"
+          ]
         }
       },
-      "block_order": ["group_pixtBQ", "group_9YAP8X", "group_aXWGxG"],
+      "block_order": [
+        "group_pixtBQ",
+        "group_9YAP8X",
+        "group_aXWGxG"
+      ],
       "name": "t:names.icons_with_text",
       "settings": {
         "content_direction": "row",
