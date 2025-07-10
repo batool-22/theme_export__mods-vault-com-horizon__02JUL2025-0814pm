@@ -113,7 +113,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>Explore the world of modding </h3>",
+                "text": "<h3>Enhance you're Gameplay</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -444,7 +444,7 @@
                 "text_pycYGE": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>No grinding. No limits. Just pure domination.<br/>Unlock your true potential with ModsVault's ultimate save files.</p>",
+                    "text": "<p>No grinding. No limits. Just pure domination.<br/>Unlock your true potential with ModsVault's ultimate Game Enhancements.</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "left",
@@ -557,7 +557,7 @@
             "accordion_row_B9BYym": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What exactly do I get when I purchase a save file?",
+                "heading": "What exactly do I get when I purchase a modded save?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -566,7 +566,7 @@
                 "text_4TPnUf": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>You’ll receive a fully modded save file with everything unlocked — max stats, all weapons, in-game currency, characters, trophies support, and more. Each game has different mods available and is clearly listed on the product page.</p>",
+                    "text": "<p>You’ll receive a fully modded save file with everything unlocked — max stats, all weapons, in-game currency, characters, and more. Each game has different mods available and is clearly listed on the product page ( THESE MODS DO NOT WORK OR SUPPORT ONLINE GAMEPLAY, ONLY FOR OFFLINE SINGLE-PLAYER GAMES ).</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -605,7 +605,7 @@
                 "text_mTP9yq": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>After placing your order, we’ll contact you via <strong>WhatsApp (+971 55 977 8231)</strong>. For PlayStation users, we use the <strong>Guest Login Code</strong> via the PSN App. For PC, we use <strong>Anydesk</strong> to access and mod your local save.</p>",
+                    "text": "<p>After placing your order, you'll be instantly be given the mods you ordered. </p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -687,7 +687,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>No. Never. We only use <strong>temporary guest access codes</strong> (for PlayStation) or remote sessions (PC) — your account stays protected and automatically logs out after we finish.</p>",
+                    "text": "<p>No. Never. We only use <strong>temporary guest access codes</strong> (for PlayStation) or remote sessions (PC) — your account stays protected and will never be accessed through us. </p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
