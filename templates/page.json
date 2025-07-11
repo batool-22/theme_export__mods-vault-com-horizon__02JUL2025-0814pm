@@ -63,11 +63,28 @@
             "padding-inline-end": 0
           },
           "blocks": {}
+        },
+        "page_AneeCL": {
+          "type": "page",
+          "name": "t:names.page",
+          "settings": {
+            "page": "what-we-do",
+            "inherit_color_scheme": false,
+            "color_scheme": "",
+            "background": false,
+            "background_color": "#00000026",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "text_jtDcnp",
-        "text_iFi8zG"
+        "text_iFi8zG",
+        "page_AneeCL"
       ],
       "disabled": true,
       "settings": {
