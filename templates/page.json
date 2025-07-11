@@ -11,6 +11,38 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "blocks": {
+        "text_jtDcnp": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p><strong>At Selofde, we specialize in delivering straightforward, secure, and customized game save files — built exclusively for offline, single-player use.</strong></p><p><strong>There are no online exploits, no shortcuts, and no unofficial methods.<br/>We don’t touch multiplayer systems, competitive environments, or anything that violates platform integrity.<br/>Just clean, enhanced save data tailored to your preferences.</strong></p><p><strong>Every file is:</strong></p><ul><li><strong><br/><br/></strong></li><li><strong><br/><br/><br/><br/></strong></li></ul><p><strong>This is the safe and legitimate way to personalize your game experience — no grey areas, just results.</strong></p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_jtDcnp"
+      ],
+      "disabled": true,
       "settings": {
         "content_direction": "column",
         "gap": 32,
