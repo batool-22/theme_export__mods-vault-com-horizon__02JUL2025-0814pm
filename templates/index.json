@@ -634,17 +634,6 @@
                 "text_aRCqtq"
               ]
             },
-            "accordion_row_diiUCt": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_dash_row",
-              "settings": {
-                "heading": "Do I need to give you my password?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {}
-            },
             "accordion_row_HbCzXE": {
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
@@ -690,7 +679,6 @@
           "block_order": [
             "accordion_row_B9BYym",
             "accordion_row_H4mqVn",
-            "accordion_row_diiUCt",
             "accordion_row_HbCzXE"
           ]
         }
