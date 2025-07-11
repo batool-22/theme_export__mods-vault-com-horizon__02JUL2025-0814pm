@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2><strong>Your Game, Your rules.</strong></h2>",
+            "text": "<p><strong>Experience Freedom in Gameplay</strong></p>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
