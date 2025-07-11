@@ -17,36 +17,10 @@
           "name": "t:names.text",
           "settings": {
             "text": "<p><strong>At Selofde, we specialize in delivering straightforward, secure, and customized game save files — built exclusively for offline, single-player use.</strong></p><p><strong>There are no online exploits, no shortcuts, and no unofficial methods.<br/>We don’t touch multiplayer systems, competitive environments, or anything that violates platform integrity.<br/>Just clean, enhanced save data tailored to your preferences.</strong></p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground-heading)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "text_iFi8zG": {
-          "type": "text",
-          "name": "t:names.text",
-          "settings": {
-            "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design andsdf honest materials.</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
+            "width": "100%",
+            "max_width": "narrow",
+            "alignment": "center",
+            "type_preset": "h3",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -63,30 +37,11 @@
             "padding-inline-end": 0
           },
           "blocks": {}
-        },
-        "page_AneeCL": {
-          "type": "page",
-          "name": "t:names.page",
-          "settings": {
-            "page": "what-we-do",
-            "inherit_color_scheme": false,
-            "color_scheme": "",
-            "background": false,
-            "background_color": "#00000026",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
         }
       },
       "block_order": [
-        "text_jtDcnp",
-        "text_iFi8zG",
-        "page_AneeCL"
+        "text_jtDcnp"
       ],
-      "disabled": true,
       "settings": {
         "content_direction": "column",
         "gap": 32,
