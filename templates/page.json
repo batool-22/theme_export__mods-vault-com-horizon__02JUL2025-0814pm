@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>At Selofde, we specialize in delivering straightforward, secure, and customized game save files — built exclusively for offline, single-player use.</strong></p><p><strong>There are no online exploits, no shortcuts, and no unofficial methods.<br/>We don’t touch multiplayer systems, competitive environments, or anything that violates platform integrity.<br/>Just clean, enhanced save data tailored to your preferences.</strong></p>",
+            "text": "<p><strong>At Selofde, we specialize in delivering straightforward, secure, and customized game save files - built exclusively for offline, single-player use.</strong></p><p><strong>There are no online exploits, no shortcuts, and no unofficial methods.<br/>We don’t touch multiplayer systems, competitive environments, or anything that violates platform integrity.<br/>Just clean, enhanced save data tailored to your preferences.</strong></p>",
             "width": "100%",
             "max_width": "narrow",
             "alignment": "center",
