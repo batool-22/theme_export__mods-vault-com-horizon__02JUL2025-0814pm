@@ -557,7 +557,7 @@
             "accordion_row_B9BYym": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "What exactly do I get when I purchase a modded save?",
+                "heading": "What do I receive when I purchase a game save service?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -566,7 +566,7 @@
                 "text_4TPnUf": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>You’ll receive a fully modded save file with everything unlocked — max stats, all weapons, in-game currency, characters, and more. Each game has different mods available and is clearly listed on the product page ( THESE MODS DO NOT WORK OR SUPPORT ONLINE GAMEPLAY, ONLY FOR OFFLINE SINGLE-PLAYER GAMES ).</p>",
+                    "text": "<p>You will receive a <strong>professionally customized game save,</strong> tailored for offline, single-player use. This includes enhanced character data, optimized progression, in-game currency, and more — depending on the specific game.<br/>Each title has its own set of features, clearly listed on the product page.</p><p>⚠️ <em>Please note: These save files are designed for offline use only. They are not compatible with online or multiplayer gameplay</em></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -593,50 +593,11 @@
                 "text_4TPnUf"
               ]
             },
-            "accordion_row_LGDcfj": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "How do I receive my mod after I order?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_mTP9yq": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>After placing your order, you'll be instantly be given the mods you ordered. </p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_mTP9yq"
-              ]
-            },
             "accordion_row_H4mqVn": {
               "type": "_accordion-row",
               "name": "t:names.accordion_dash_row",
               "settings": {
-                "heading": "Is this safe? Will I get banned?",
+                "heading": "Is this safe to use?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -646,7 +607,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Absolutely safe. We don’t use hacks or online cheats. Our saves are created and installed using secure and clean methods. No one has been banned using our services.</p>",
+                    "text": "<p>Yes, our services are designed for safety and reliability. We work exclusively with <strong>offline, single-player save </strong>, using secure methods that do not interfere with online systems or violate platform terms.<br/><br/>No account issues have ever been reported from using our services.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -758,7 +719,6 @@
           },
           "block_order": [
             "accordion_row_B9BYym",
-            "accordion_row_LGDcfj",
             "accordion_row_H4mqVn",
             "accordion_row_diiUCt",
             "accordion_row_HbCzXE"
