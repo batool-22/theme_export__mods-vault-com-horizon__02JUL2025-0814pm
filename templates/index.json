@@ -419,7 +419,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>One Shot. Every Boss.</p>",
+                    "text": "<p><strong>Progress Smarter. Play Better.</strong></p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -444,7 +444,7 @@
                 "text_pycYGE": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>No grinding. No limits. Just pure domination.<br/>Unlock your true potential with ModsVault's ultimate Game Enhancements.</p>",
+                    "text": "<p>Skip the grind and enjoy enhanced gameplay with professionally customized saves.<br/><br/>Tailored for offline, single-player experiences.<br/><br/></p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "left",
