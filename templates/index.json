@@ -355,7 +355,7 @@
               "type": "text",
               "name": "t:names.caption",
               "settings": {
-                "text": "<p>Get your Modded save now</p>",
+                "text": "<p>Get your save now</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
