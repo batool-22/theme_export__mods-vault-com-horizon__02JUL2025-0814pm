@@ -643,37 +643,7 @@
                 "icon": "none",
                 "width": 20
               },
-              "blocks": {
-                "text_4qhbzp": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>No. Never. We only use <strong>temporary guest access codes</strong> (for PlayStation) or remote sessions (PC) — your account stays protected and will never be accessed through us. </p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_4qhbzp"
-              ]
+              "blocks": {}
             },
             "accordion_row_HbCzXE": {
               "type": "_accordion-row",
@@ -998,7 +968,7 @@
                 "text_THFNCr": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Modded with Care</p>",
+                    "text": "<p>Customized with Care</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -1023,7 +993,7 @@
                 "text_zY7TN9": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Every file is tested, clean, and custom.</p>",
+                    "text": "<p>Every save is tested, clean, and custom.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -1146,7 +1116,7 @@
                 "text_YEffF9": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Real Gamers, Real Mods</p>",
+                    "text": "<p>For Gamers, By Gamers.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
